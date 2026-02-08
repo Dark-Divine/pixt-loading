@@ -5,7 +5,7 @@ name 'pixt-loadscreen'
 description 'Pixel Tuner Loadscreen Script.'
 author 'Pixel Tuner'
 version '1.0.0'
--- github ''
+github 'https://github.com/Dark-Divine/pixt-loading/tree/main'
 games {"gta5"}
 
 server_script {"server.lua"}
